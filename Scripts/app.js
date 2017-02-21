@@ -68,7 +68,7 @@
         // set an event listener for each button
         button.addEventListener("click", ButtonClick);
       }, this);
-
+//lest test it
       // Use one named function, ButtonClick to respond to each of the buttons
       function ButtonClick(event){
           // store which button has been clicked in currentButton
